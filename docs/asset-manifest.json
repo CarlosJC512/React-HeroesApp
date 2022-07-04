@@ -1,7 +1,7 @@
 {
   "files": {
     "main.js": "./static/js/main.aadd2379.js",
-    "static/media/dc-wonder.jpg": "./static/media/dc-wonder.970ba2d62a4636ff6afb.jpg",
+    "static/media/dc-wonder.jpg": "./static/media/1dc-wonder.970ba2d62a4636ff6afb.jpg",
     "static/media/dc-flash.jpg": "./static/media/dc-flash.b3922f25f3765970d74c.jpg",
     "static/media/dc-martian.jpg": "./static/media/dc-martian.78565f7df6238ef8a601.jpg",
     "static/media/marvel-hulk.jpg": "./static/media/marvel-hulk.d1af5fe55736a7ee8eca.jpg",
@@ -25,6 +25,6 @@
     "main.aadd2379.js.map": "./static/js/main.aadd2379.js.map"
   },
   "entrypoints": [
-    "static/js/main.aadd2379.js"
+    "./static/js/main.aadd2379.js"
   ]
 }
